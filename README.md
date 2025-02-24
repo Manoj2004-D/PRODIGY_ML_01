@@ -44,7 +44,7 @@ print(f"Mean Squared Error (MSE): {mse}")
 print(f"Root Mean Squared Error (RMSE): {rmse}")
 print(f"R² Score: {r2}")
 
-# ---------- MULTIPLE PLOTS ---------- #
+# For the MULTIPLE PLOTS
 
 #Scatter Plot: Actual vs Predicted Prices
 plt.figure(figsize=(10,6))
